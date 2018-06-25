@@ -1,0 +1,24 @@
+
+
+
+#Casca
+    - aspera = 1
+    - lisa = -1
+
+#Cor
+    - marrom = -1
+    - verde = 0
+    - vermelho = 1
+
+#Tamanho
+    - grande = 1
+    - pequena = -1
+
+#Polpa
+    - dura = 1
+    - macia = -1
+
+#Risco
+    - alto = 1
+    - baixo = -1
+
